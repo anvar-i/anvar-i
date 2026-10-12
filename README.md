@@ -52,4 +52,4 @@ https://www.linkedin.com/in/anvar-ibragimov-3a2719400/?lipi=urn%3Ali%3Apage%3Ad_
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=WarAn2007&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=anvar-i&icon=0&color=0)](https://visitcount.itsvg.in)
